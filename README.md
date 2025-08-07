@@ -2,7 +2,7 @@
 
 ## The Presentation
 
-
+[Slides](CopilotPresentation.pdf)
 
 ## References
 
