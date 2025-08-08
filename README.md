@@ -92,3 +92,6 @@
 
 [lprichar/devops-release-notes-generator: Generates release notes from AzureDevOps (all code was generated in CoPilot Agent Mode)](https://github.com/lprichar/devops-release-notes-generator)
 
+### Copilot Agent Tips
+
+[The Agent Awakens: Collaborative Development with GitHub Copilot | BRK113](https://youtu.be/TgwpK_ROhqo?si=-NXO7iSY0XLjVFoS)
