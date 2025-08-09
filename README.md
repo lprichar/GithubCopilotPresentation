@@ -94,4 +94,5 @@
 
 ### Copilot Agent Tips
 
+[Best practices for using Copilot to work on tasks](https://docs.github.com/en/enterprise-cloud@latest/copilot/tutorials/coding-agent/get-the-best-results)
 [The Agent Awakens: Collaborative Development with GitHub Copilot | BRK113](https://youtu.be/TgwpK_ROhqo?si=-NXO7iSY0XLjVFoS)
